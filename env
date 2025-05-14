@@ -1,0 +1,5 @@
+MYSQLUSER = myuser
+MYSQLPASSWORD = mypassword
+
+RABBITUSER = user
+RABBITPASSWORD = password
