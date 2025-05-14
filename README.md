@@ -1,8 +1,12 @@
 # Standard Go Project Layout
 How to run this project ?
 
-1. docker-compose build
-2. docker-compose up
+1.  go get github.com/streadway/amqp
+    go get github.com/go-sql-driver/mysql
+    go mod tidy
+    go mod vendor
+2. docker-compose build
+3. docker-compose up
 
 
 Translations:
