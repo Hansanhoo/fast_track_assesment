@@ -8,8 +8,9 @@ How to run this project ?
     go mod tidy
     
     go mod vendor
-3. docker-compose build
-4. docker-compose up
+3. rename the file env to .env
+4. docker-compose build
+5. docker-compose up
 
 # Standard Go Project Layout
 Translations:
