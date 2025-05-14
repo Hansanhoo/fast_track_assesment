@@ -1,4 +1,4 @@
-# Standard Go Project Layout
+# Fast track assesment 
 How to run this project ?
 
 1.  go get github.com/streadway/amqp
@@ -11,7 +11,7 @@ How to run this project ?
 3. docker-compose build
 4. docker-compose up
 
-
+# Standard Go Project Layout
 Translations:
 
 * [한국어 문서](README_ko.md)
